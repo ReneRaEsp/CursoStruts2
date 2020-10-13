@@ -1,0 +1,6 @@
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/capadatos/domain/Persona.java
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/actions/MostrarPersonaAction.java
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/capaservicio/PersonaServiceImpl.java
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/capaservicio/PersonaService.java
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/capadatos/PersonaDao.java
+/home/rr/Curso/Struts2/Struts2SpringJpaBasico/Struts2SpringJpaBasico/src/main/java/mx/com/gm/capadatos/PersonaDaoImpl.java
